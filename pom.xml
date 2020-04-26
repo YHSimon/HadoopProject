@@ -13,6 +13,7 @@
         <module>mapreduce_wordcount</module>
         <module>hdfs_api</module>
         <module>mapreduce_combiner</module>
+        <module>hive_udf_demo</module>
     </modules>
 
     <dependencies>
